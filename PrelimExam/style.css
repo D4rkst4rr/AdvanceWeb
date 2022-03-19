@@ -260,7 +260,7 @@
     color: #141414;
     text-decoration: none;
 }
-   .main_btn:after {
+.main_btn:after {
     position: absolute;
     content: '';
     top: 0;
@@ -294,7 +294,7 @@
       justify-self: center;
       width: 100%;
       margin: 0 auto;
-      height: 90vh;
+      height: 120vh;
     }
     .main_content {
       text-align: center;
